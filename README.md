@@ -1,6 +1,6 @@
-# 项目名称
+# 西门子PLC实践
 
-> 简短的项目描述（一句话）
+> 西门子 PLC 实践项目
 
 ## 目录结构
 - `Body/` -存放主要内容
@@ -14,4 +14,5 @@
     每个分支项目都会由他去继承
 - 作者：Pinavia - 2025
 
-![logo](./Body/8-Picture/Logo.png)
+![log](./Body/8-Picture/Logo.png)
+*OneHistory*
